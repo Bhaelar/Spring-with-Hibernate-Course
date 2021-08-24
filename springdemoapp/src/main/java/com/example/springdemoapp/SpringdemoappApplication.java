@@ -1,15 +1,13 @@
-package com.example.webcustomertracker;
-
+package com.example.springdemoapp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class WebCustomerTrackerApplication {
-	
+public class SpringdemoappApplication {
+
 	public static void main(String[] args) {
-		SpringApplication.run(WebCustomerTrackerApplication.class, args);
+		SpringApplication.run(SpringdemoappApplication.class, args);
 	}
-	
 
 }
